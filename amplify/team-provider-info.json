@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-thor-dev-181122-authRole",
+      "UnauthRoleArn": "arn:aws:iam::907868819065:role/amplify-thor-dev-181122-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::907868819065:role/amplify-thor-dev-181122-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-thor-dev-181122-deployment",
+      "UnauthRoleName": "amplify-thor-dev-181122-unauthRole",
+      "StackName": "amplify-thor-dev-181122",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:907868819065:stack/amplify-thor-dev-181122/1eafd790-ffeb-11eb-a645-0addd70d9a10",
+      "AmplifyAppId": "d3022pdj13ocqd"
+    },
+    "categories": {
+      "auth": {
+        "thorc06ab257": {}
+      }
+    }
+  }
+}
